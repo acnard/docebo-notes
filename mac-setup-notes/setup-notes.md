@@ -118,7 +118,7 @@ From both VS code and the terminal, I had this error:
 
 "Git: RPC failed; HTTP 400 curl 22 The requested URL returned error: 400"
 
-It was fixed by increasing the buffers size 
+It was fixed by increasing the buffers size. With the below command, I was able to re-add the mac setup notes to the repo and push all changes to github origin. 
 
 **Large Files or Repository**
 
